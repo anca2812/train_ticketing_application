@@ -1,1 +1,0 @@
-C:\Users\cuiba\.m2\repository\com\sun\mail\javax.mail\1.6.2\javax.mail-1.6.2.jar;C:\Users\cuiba\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar
